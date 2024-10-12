@@ -11,6 +11,7 @@ on:
 
 env:
   FRONTEND_WEBAPP_DEV: mridella-fe-dev
+  FRONTEND_WEBAPP_UAT: mridella-fe-uat
 
 jobs:
   build:
